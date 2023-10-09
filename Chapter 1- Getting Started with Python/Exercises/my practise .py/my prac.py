@@ -15,5 +15,7 @@ q k mtlb hash bs ak k lia hta ht or ye multiple k lia'''
 age= input("enter your age:")
 print (age)
 #math operators
-print((2*3/8+(23+5))) #
+print((2*3/8+\
+       (23+5))) # slash kro so u wnt to cut tjhe line yani ak sy zyada likna ho to
 # a+b ismy + operator hy and operand a and b hy
+# agr ans 28.7 hy or hmy bs 28 chya so we will use tyoecast
