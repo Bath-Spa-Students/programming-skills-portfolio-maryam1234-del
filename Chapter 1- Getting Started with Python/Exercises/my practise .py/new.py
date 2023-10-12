@@ -1,7 +1,10 @@
 import turtle
 turtle.hideturtle()
-turtle.fillcolor('red')
+turtle.fillcolor('blue')
 turtle.begin_fill()
 turtle.circle(100)
 turtle.end_fill()
 turtle.done()
+turtle.begin_fill()
+turtle.end_fill()
+turtle.end_fill()
