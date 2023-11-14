@@ -1,6 +1,6 @@
-#Use a dictionary to store information about a person you know.Store their first name, last name, age, and the city in which they live. You
-#should have keys such as first_name, last_name, age, and city. Print each piece of information stored in your dictionary.
-
+#Keep information about people you know in a dictionary.Note down their age, city of residence, first and last names. 
+#Keys like age, city, last name, and first name should be available.
+#Print every entry that is kept in your dictionary.
 
 
 person = {
