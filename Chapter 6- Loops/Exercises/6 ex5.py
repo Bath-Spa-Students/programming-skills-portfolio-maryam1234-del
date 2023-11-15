@@ -1,6 +1,6 @@
 sandwich_orders = [
-    'pastrami', 'veggie', 'grilled cheese chicken', 'pastrami',
-    'turkey', 'roast cheese beef', 'pastrami']
+    'fries', 'veggie', 'grilled cheese chicken', 'fries',
+    'turkey', 'roast cheese beef', 'fries']
 finished_sandwiches = []
 
 print("I'm sorry, we're all out of pastrami today.")
