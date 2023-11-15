@@ -1,5 +1,5 @@
 def make_shirt(size, message):
-    """Summarize the shirt that's going to be made."""
+    """Give an overview of the shirt that will be produced."""
     print("\nI'm going to make a " + size + " t-shirt.")
     print('It will say, "' + message + '"')
 
